@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\hunterdk1.github.io",
+    "\\hunterdk1.github.io\\Views",
+    "\\hunterdk1.github.io\\Views\\Home"
   ],
-  "SelectedNode": "\\FirstModel.cs",
+  "SelectedNode": "\\hunterdk1.github.io\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
